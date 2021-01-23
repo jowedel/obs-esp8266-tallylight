@@ -33,7 +33,7 @@ Next you need to edit the #defines to configure the program:
 Now you can flash the programm onto the esp and it should connect to your WIFI and OBS instance.
 
 ### Errors
-I build in some error Codes:
+I added some error codes:
 | Name | Description |
 | ----------- | ----------- |
 | Blue constant flashing | The tallylight tries to connect to your WIFI |
