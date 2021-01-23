@@ -1,0 +1,18 @@
+Partslist:
+
+1x		J1 			Würth Micro-USB 629105150521		https://www.conrad.de/de/p/micro-usb-steckverbinder-serie-wr-com-buchse-einbau-vertikal-smt-629105150521-wuerth-elektronik-inhalt-1-st-1898830.html
+1x		JP1			1x2 Pin Header Male			https://www.conrad.de/de/p/connfly-stiftleiste-standard-anzahl-reihen-1-polzahl-je-reihe-40-ds1021-1-40sf11-1-st-1390109.html
+1x		(ESP01)			2x4 Pin Header Female			https://www.conrad.de/de/p/econ-connect-buchsenleiste-standard-anzahl-reihen-2-polzahl-je-reihe-4-blg2x4-1-st-1492287.html
+
+1x		U1			ESP8266-01 Module
+1x		U2			3.3V Voltage Regulator LD1117 (SMD)	https://www.conrad.de/de/p/stmicroelectronics-ld1117s33ctr-spannungsregler-linear-sot-223-positiv-fest-800-ma-1184700.html
+
+3x		Q1			BC327 PNP Transistor			https://www.conrad.de/de/p/diotec-transistor-bjt-diskret-bc327-40bk-to-92-anzahl-kanaele-1-pnp-140535.html
+
+1x		C1			10uF Condesator				https://www.conrad.de/de/p/yageo-s5025m0010b1f-0405-elektrolyt-kondensator-radial-bedrahtet-1-5-mm-10-f-25-v-20-x-h-4-mm-x-5-mm-1-st-445591.html
+1x		C2			100nF Ceramic-Condensator			https://www.conrad.de/de/p/tru-components-tc-k100nf5-keramik-kondensator-tht-100-nf-50-v-20-1-st-1589524.html
+
+6x		R2,R3,R5,R6,R8,R9	Resistor 10kΩ				https://www.conrad.de/de/p/yageo-cfr-25jt-52-10k-kohleschicht-widerstand-10-k-axial-bedrahtet-0207-0-25-w-5-1-st-1417697.html
+3x		R1,R4,R7			Resistor 68Ω				https://www.conrad.de/de/p/weltron-kohleschicht-widerstand-68-axial-bedrahtet-0411-0-5-w-5-1-st-405116.html
+
+4x		D1,D2,D3,D4		RGB LED Common Cathode
