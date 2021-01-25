@@ -1,6 +1,6 @@
 # obs-esp8266-tallylight
 Build small WIFI enabled tallylights that work with the [obs-websocket](https://github.com/Palakis/obs-websocket) plugin.
-The tallylight looks for a substring in the current scene and when it matches it will light up red. Also works with the preview in studio mode (green light).
+The tallylight looks for a substring in the current scene name and when it matches it will light up red. Also works with the preview in studio mode (green light).
 
 ## Hardware
 I used the esp01 module, but other esp modules should work too. You can build the circuit on perfboard, but if you want a clean and small package you can manufacture a pcb with the gerberfiles.
@@ -33,7 +33,7 @@ Next you need to edit the #defines to configure the program:
 Now you can flash the programm onto the esp and it should connect to your WIFI and OBS instance.
 
 ### Errors
-I build in some error Codes:
+I added some error codes:
 | Name | Description |
 | ----------- | ----------- |
 | Blue constant flashing | The tallylight tries to connect to your WIFI |
