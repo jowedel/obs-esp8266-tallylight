@@ -66,7 +66,7 @@ void webSocketEvent(WStype_t type, uint8_t * payload, size_t length) {
 			break;
       
 		case WStype_TEXT: {
-      StaticJsonDocument<1024> resDoc;
+      DynamicJsonDocument resDoc(4069);
        // Deserialize the JSON document
       DeserializationError error = deserializeJson(resDoc, payload);
 
